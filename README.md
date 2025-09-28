@@ -34,3 +34,14 @@ This is some more body text
 >
 > Don't you like this?
 
+`let x;int 5`
+
+```python
+input="请输入你的名字："
+a=input
+print("你的名字是："+a)
+```
+
+# 删除远程分支与变更远程分支
+
+![图文教程](C:\Users\羊顺滋\Pictures\wechat_2025-09-28_113658_694.png)
